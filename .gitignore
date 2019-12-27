@@ -4,6 +4,7 @@
 ##
 # Modules dependencies
 node_modules/
+pokedex/node_modules/
 # Package manager stuff
 yarn-debug.log*
 yarn-error.log*
